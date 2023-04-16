@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs/
+Content-Type: application/json
+
+{
+  "title": "testi",
+  "author": "Leo Tamminen",
+  "url": "http://localhost:3003/api/blogs",
+  "likes": 3,
+  "userId": "5c470bd33e69c862b1796863"
+}
