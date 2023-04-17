@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs/
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNyNyIsImlkIjoiNjQzYWNiNzhhZjU2YmY5ZDExNzU1MjgxIiwiaWF0IjoxNjgxNjM3MzI2fQ.gt242CRfZXAgNU9Qh8UOEa-7hgilju-W0gKg5qxr6Ww
+{
+  "title": "testi",
+  "author": "Leo Tamminen",
+  "url": "http://localhost:3003/api/blogs",
+  "likes": 3
+}
