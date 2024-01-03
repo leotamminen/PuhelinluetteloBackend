@@ -1,6 +1,8 @@
-# Part 4 of the Web programming 2023 course
+# Part 4 of the Web programming 2023 UTU course
 
 Part 4: Backend testing, user administration
+
+https://jastpa.utugit.fi/webprog/en/about
 
 Quoted directly from the course's about site:
 
